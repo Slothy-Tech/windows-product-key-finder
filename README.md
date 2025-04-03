@@ -13,19 +13,16 @@
 
 <h2>🛠️ How to Use It</h2>
 
-<h3>Step 1: Get the Script</h3>
+<h3>Step 1: Download the Script</h3>
 <ul>
-  <li>In your browser, go to <code>github.com</code>.</li>
-  <li>Search <code>productkeyfinder.cmd</code>.</li>
-  <li>Click the project, find <code>productkeyfinder.cmd</code>, and click "Raw."</li>
-  <li>Press <strong>Ctrl+A</strong> to select, <strong>Ctrl+C</strong> to copy.</li>
+  <li>In this repository, find <code>productkeyfinder.cmd</code> in the file list.</li>
+  <li>Click it, then click "Download" or "Raw" to save it.</li>
 </ul>
 
-<h3>Step 2: Save It</h3>
+<h3>Step 2: Save It Correctly</h3>
 <ul>
-  <li>Open Notepad (Start > "Notepad").</li>
-  <li>Paste with <strong>Ctrl+V</strong>.</li>
-  <li>Save as <code>productkeyfinder.cmd</code> (File > Save As > All Files > Desktop).</li>
+  <li>If downloaded as text, open Notepad (Start > "Notepad").</li>
+  <li>Paste the script, save as <code>productkeyfinder.cmd</code> (File > Save As > All Files > Desktop).</li>
 </ul>
 
 <h3>Step 3: Run It</h3>
@@ -51,7 +48,7 @@ Press any key to exit.
 <ul>
   <li><strong>No Key?</strong> Right-click > "Run as administrator."</li>
   <li><strong>Won’t Open?</strong> Ensure it’s <code>.cmd</code>, not <code>.txt</code>.</li>
-  <li><strong>Errors?</strong> Recopy from GitHub’s "Raw" view.</li>
+  <li><strong>Errors?</strong> Redownload from this repo’s file list.</li>
 </ul>
 
 <hr>
